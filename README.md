@@ -19,4 +19,6 @@ Resuelve el problema de elección del amigo secreto eligiendo uno de ellos al az
 - Mostrarlos en la pantalla.
 - Sortear uno de ellos.
 
+[ **▶️ Demostración de funcionamiento:** (gif-funcionamiento.gif)](https://github.com/AgustinaLerda/amigo-secreto/blob/main/gif-funcionamiento.gif)
+ 
  **🌐 Ver en github pages:  👉** https://agustinalerda.github.io/amigo-secreto/
